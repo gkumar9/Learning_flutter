@@ -12,7 +12,7 @@ class MockLocation extends Location {
               text:
                   'While we could go on about the ethereal glow and seemingly endless heights of this bamboo grove on the outskirts of Kyoto, the sight\'s pleasures extend beyond the visual realm'),
           LocationFacts(
-              title: 'How to Get There',
+              title: 'How to Get There from now',
               text:
                   'Kyoto airport, with several terminals, is located 16 kilometres south of the city and is also known as Kyoto. Kyoto can also be reached by transport links from other regional airports.')
         ]);
