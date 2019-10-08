@@ -14,7 +14,7 @@ class MockLocation extends Location {
           LocationFacts(
               title: 'How to Get There from now',
               text:
-                  'Kyoto airport, with several terminals, is located 16 kilometres south of the city and is also known as Kyoto. Kyoto can also be reached by transport links from other regional airports.')
+                  'Delhi airport, with several terminals, is located 16 kilometres south of the city and is also known as Kyoto. Kyoto can also be reached by transport links from other regional airports.')
         ]);
   }
 }
