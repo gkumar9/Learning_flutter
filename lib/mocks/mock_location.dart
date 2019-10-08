@@ -8,7 +8,7 @@ class MockLocation extends Location {
         url: 'https://fluttercrashcourse.com/assets/images/arashiyama@3x.jpg',
         facts: <LocationFacts>[
           LocationFacts(
-              title: 'Summary',
+              title: 'Summary till now',
               text:
                   'While we could go on about the ethereal glow and seemingly endless heights of this bamboo grove on the outskirts of Kyoto, the sight\'s pleasures extend beyond the visual realm'),
           LocationFacts(
